@@ -8,7 +8,7 @@
 
 I'm **Atharva Gupta**, and I am a freshmen studying **Computer Science at Purdue University**. I'm interested in artifical intelligence, machine learning, and learning new programming languages. 
 
-I am currently working on increasing my skillset within python by learning Web Scraping and using APIs. 
+I am currently working on increasing my skillset within python by learning Web Scraping, using APIs, and working through problems provided by Leetcode. 
 
 ### Contact Information
 <div id="badges">
