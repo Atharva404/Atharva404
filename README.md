@@ -6,9 +6,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm **Atharva Gupta**, and I am a freshmen studying **Computer Science at Purdue University**. I'm interested in artifical intelligence, machine learning, and learning new programming languages. 
+I'm **Atharva Gupta**, and I am a sophomore studying **Computer Science at Purdue University**. I'm interested in artifical intelligence, machine learning, and learning new programming languages. 
 
-I am currently working on increasing my skillset within python by learning Web Scraping, using APIs, and working through problems provided by Leetcode. 
+I plan on to take a few concentrations for career path such as: **System Software, Programming Languages, Machine Intelligence, and Cybersecurity** 
 
 ### Contact Information
 <div id="badges">
