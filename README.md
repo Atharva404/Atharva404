@@ -15,8 +15,4 @@ I plan to take few concentrations such as: **System Software, Programming Langua
   <a href="https://www.linkedin.com/in/atharva-gupta-7638b023b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg" alt="Personal Website"/>
-  </a>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.w2203@gmail.com)
-</div>
+ </div>
