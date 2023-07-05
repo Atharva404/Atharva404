@@ -15,4 +15,10 @@ I plan to take few concentrations such as: **Systems Software, Software Engineer
   <a href="https://www.linkedin.com/in/atharva-gupta-7638b023b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.atharva-gupta.com/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  </a>
  </div>
+
+ ### Lanugages
+ [![My Skills](https://skills.thijs.gg/icons?i=java,c,nodejs,css,git,html,js,nodejs,py&theme=light)](https://skills.thijs.gg)
