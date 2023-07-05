@@ -8,7 +8,7 @@
 
 I'm **Atharva Gupta**, and I'm a sophomore studying **Computer Science at Purdue University**. I'm interested in artifical intelligence, machine learning, Software Engineering and Software Programming. 
 
-I plan to take few concentrations such as: **System Software, Software Engineering, Machine Intelligence, and Security** 
+I plan to take few concentrations such as: **Systems Software, Software Engineering, Algorithmic Foundation, and Programming Languages** 
 
 ### Contact Information
 <div id="badges">
