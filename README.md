@@ -10,6 +10,8 @@ I'm **Atharva Gupta**, and I'm a sophomore studying **Computer Science at Purdue
 
 I plan to take few concentrations such as: **Systems Software, Software Engineering, Algorithmic Foundation, and Programming Languages** 
 
+
+CS 193 UTA
 ### Contact Information
 <div id="badges">
   <a href="https://www.linkedin.com/in/atharva-gupta-7638b023b/">
