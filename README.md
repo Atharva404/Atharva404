@@ -21,6 +21,3 @@ CS 193 UTA
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
  </div>
-
- ### Lanugages
- [![My Skills](https://skills.thijs.gg/icons?i=java,c,nodejs,css,git,html,js,nodejs,py&theme=light)](https://skills.thijs.gg)
