@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm **Atharva Gupta**, and I'm a sophomore studying **Computer Science at Purdue University**. I'm interested in artifical intelligence, machine learning, Software Engineering and Software Programming. 
+I'm **Atharva Gupta**, and I'm a junior studying **Computer Science at Purdue University**. I'm interested in artifical intelligence, machine learning, Software Engineering and Software Programming. 
 
 I plan to take few concentrations such as: **Systems Software and Software Engineering
 
