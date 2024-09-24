@@ -9,7 +9,7 @@
 I'm **Atharva Gupta**, and I'm a junior studying **Computer Science at Purdue University with a concentration in Software Engineering**. I'm interested in artifical intelligence, machine learning, Software Engineering and Software Programming. 
 
 I have completed the Entreprenurship and Innovation Certificate and am pursuing the Applications in Data Science Certificate.
-I plan to take few concentrations such as: **Software Engineering and Security**
+I plan to take few concentrations such as: **Software Engineering and ML**
 
 
 CS 193 UTA
